@@ -2,6 +2,11 @@ h1 {
     color: white;
     background: red;
     font-size: 32px;
-    font-weight: 900;
+    font-weight: bold;
     text-align: center;
+}
+
+.recipe-h2 {
+    background: rgb(red, rgb(185, 207, 185), rgb(185, 185, 230));
+    font: verdana, "DejaVu Sans", sans-serif; 
 }
