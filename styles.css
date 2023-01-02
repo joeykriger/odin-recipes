@@ -7,6 +7,6 @@ h1 {
 }
 
 .recipe-h2 {
-    background: rgb(red, rgb(185, 207, 185), rgb(185, 185, 230));
-    font: verdana, "DejaVu Sans", sans-serif; 
+    background: rgb(236, 119, 119);
+    font-family: verdana, "DejaVu Sans", sans-serif; 
 }
