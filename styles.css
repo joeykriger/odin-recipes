@@ -10,3 +10,12 @@ h1 {
     background: rgb(236, 119, 119);
     font-family: verdana, "DejaVu Sans", sans-serif; 
 }
+
+.adjust-font-size {
+    font-size: 24px
+}
+
+#recipe-h4 {
+    color: blue;
+    font-size: 36px;
+}
