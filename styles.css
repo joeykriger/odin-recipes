@@ -24,3 +24,18 @@ h1 {
     background: rgb(166, 236, 166);
     font-weight: bold;
 }
+
+.do-not {
+    background: black;
+    color: white;
+}
+
+.def-do {
+    background: yellow;
+}
+
+.do-not,
+.def-do {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
